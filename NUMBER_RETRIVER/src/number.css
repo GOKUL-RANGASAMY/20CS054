@@ -1,0 +1,14 @@
+*{
+    align-items: center;
+    text-align: center;
+    background-color: #F8F7F2;
+}
+
+.heading{
+    color: blueviolet;
+}
+
+.button{
+    background-color: rgb(244, 148, 148);
+    color: #22577A;
+}
